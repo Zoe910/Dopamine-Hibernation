@@ -33,6 +33,8 @@ Anadol, R. (2018) Melting memories [Data-driven audiovisual installation]. Pilev
 
 Brinkmann, C. (n.d.) Floral resonance [Interactive audiovisual installation]. Manar, PAAD Abu Dhabi. Available at: https://paad.ae/manar/artwork-detail/floral-resonance
 
+Google (2026) Gemini (Sep 8 version) [Large language model]. Available at: https://gemini.google.com 
+
 ## Name
 Zhaoying Ye
 
